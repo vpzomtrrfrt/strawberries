@@ -1,0 +1,138 @@
+{
+	"minecraft": {
+		"version": "1.10.2",
+		"modLoaders": [
+			{
+				"id": "forge-12.18.2.2099",
+				"primary": true
+			}
+		]
+	},
+	"manifestType": "minecraftModpack",
+	"manifestVersion": 1,
+	"name": "Strawberries",
+	"version": "1.0.0",
+	"author": "VpzomTrrfrt",
+	"files": [
+		{
+			"projectID": 243076,
+			"fileID": 2341572,
+			"required": true
+		},
+		{
+			"projectID": 74072,
+			"fileID": 2338518,
+			"required": true
+		},
+		{
+			"projectID": 229380,
+			"fileID": 2336917,
+			"required": true
+		},
+		{
+			"projectID": 225643,
+			"fileID": 2341055,
+			"required": true
+		},
+		{
+			"projectID": 241891,
+			"fileID": 2341230,
+			"required": true
+		},
+		{
+			"projectID": 64578,
+			"fileID": 2340734,
+			"required": true
+		},
+		{
+			"projectID": 243121,
+			"fileID": 2339129,
+			"required": true
+		},
+		{
+			"projectID": 224641,
+			"fileID": 2341179,
+			"required": true
+		},
+		{
+			"projectID": 250363,
+			"fileID": 2327403,
+			"required": true
+		},
+		{
+			"projectID": 238222,
+			"fileID": 2336996,
+			"required": true
+		},
+		{
+			"projectID": 241665,
+			"fileID": 2335870,
+			"required": true
+		},
+		{
+			"projectID": 73488,
+			"fileID": 2301859,
+			"required": true
+		},
+		{
+			"projectID": 220606,
+			"fileID": 2328233,
+			"required": true
+		},
+		{
+			"projectID": 74120,
+			"fileID": 2338914,
+			"required": true
+		},
+		{
+			"projectID": 228932,
+			"fileID": 2333195,
+			"required": true
+		},
+		{
+			"projectID": 228756,
+			"fileID": 2331308,
+			"required": true
+		},
+		{
+			"projectID": 229073,
+			"fileID": 2232170,
+			"required": true
+		},
+		{
+			"projectID": 223008,
+			"fileID": 2320101,
+			"required": true
+		},
+		{
+			"projectID": 229076,
+			"fileID": 2232181,
+			"required": true
+		},
+		{
+			"projectID": 231095,
+			"fileID": 2341112,
+			"required": true
+		},
+		{
+			"projectID": 223094,
+			"fileID": 2315240,
+			"required": true
+		},
+		{
+			"projectID": 223852,
+			"fileID": 2341683,
+			"required": true
+		},
+		{
+			"projectID": 225561,
+			"fileID": 2339317,
+			"required": true
+		},
+		{
+			"projectID": 245224,
+			"fileID": 2337855,
+			"required": true
+		}
+	]
+}
